@@ -5,3 +5,6 @@
 ```
  yarn start
 ```
+
+## Project Snapshot
+![](infinitescroll.gif)
