@@ -1,4 +1,8 @@
 ## Infinite Scroll Image Search
+``
+ yarn install
 
-# yarn install
-# yarn start
+``
+``
+ yarn start
+``
